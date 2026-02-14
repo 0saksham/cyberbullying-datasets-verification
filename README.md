@@ -67,3 +67,9 @@ Details:
 - Majority voting used
 
 Created for validation testing.
+
+## Ethical Compliance
+
+All datasets are referenced in accordance with platform Terms of Service.
+No copyrighted or restricted raw data is redistributed in this repository.
+
